@@ -20,7 +20,3 @@ You can check out the live demo of the Weather Website [here]().
 - CSS
 - JavaScript 
 - [Weather API]
-
-## Getting Started
- Clone the repository:
-   git clone :
